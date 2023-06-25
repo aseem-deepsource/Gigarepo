@@ -46,19 +46,22 @@ name = "python"
 name = "black"
 
 [[transformers]]
-name = "yapf"
-
-[[transformers]]
-name = "gofumpt"
-
-[[transformers]]
-name = "gofmt"
+name = "autopep8"
 
 [[transformers]]
 name = "isort"
 
 [[transformers]]
-name = "autopep8"
+name = "yapf"
+
+[[transformers]]
+name = "gofmt"
+
+[[transformers]]
+name = "gofumpt"
+
+[[transformers]]
+name = "standardrb"
 
 [[transformers]]
 name = "rubocop"
@@ -68,9 +71,6 @@ name = "prettier"
 
 [[transformers]]
 name = "standardjs"
-
-[[transformers]]
-name = "standardrb"
 
 [[transformers]]
 name = "google-java-format"
