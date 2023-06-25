@@ -3,6 +3,10 @@ version = 1
 [[analyzers]]
 name = "csharp"
 
+[[transformers]]  
+name = "black"  
+enabled = true
+
 [[analyzers]]
 name = "scala"
 
