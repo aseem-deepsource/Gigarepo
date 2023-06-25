@@ -46,22 +46,19 @@ name = "python"
 name = "black"
 
 [[transformers]]
-name = "autopep8"
-
-[[transformers]]
-name = "isort"
-
-[[transformers]]
 name = "yapf"
-
-[[transformers]]
-name = "gofmt"
 
 [[transformers]]
 name = "gofumpt"
 
 [[transformers]]
-name = "standardrb"
+name = "gofmt"
+
+[[transformers]]
+name = "isort"
+
+[[transformers]]
+name = "autopep8"
 
 [[transformers]]
 name = "rubocop"
@@ -73,6 +70,9 @@ name = "prettier"
 name = "standardjs"
 
 [[transformers]]
+name = "standardrb"
+
+[[transformers]]
 name = "google-java-format"
 
 [[transformers]]
@@ -80,9 +80,6 @@ name = "php-cs-fixer"
 
 [[transformers]]
 name = "rustfmt"
-
-[[transformers]]
-name = "scalafmt"
 
 [[transformers]]
 name = "dotnet-format"
