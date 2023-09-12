@@ -4,7 +4,7 @@
 def main():
     while True:
         try:
-            string = input("> ")
+            string = input("> ddddddd")
             print(eval(string))
         except (KeyboardInterrupt, EOFError):
             print()
