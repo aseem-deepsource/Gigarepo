@@ -6,7 +6,7 @@
   <a href="https://deepsource.io/docs/">Documentation</a> |
   <a href="https://deepsource.io/signup/">Get Started</a> |
   <a href="https://discuss.deepsource.io/">Community forum</a> |
-  <a href="https://deepsource.io/discord/"> Discord server</a>
+  <a href="https://deepsource.io/discord/"> Discord serverrrrrrr</a>
 </p>
 
 <p align="center">
