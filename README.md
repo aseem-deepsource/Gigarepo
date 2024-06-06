@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://deepsource.io/docs/">Documentatiossssn</a> |
+  <a href="https://deepsource.io/docs/">Documentatiossssnssss</a> |
   <a href="https://deepsource.io/signup/">Get Started</a> |
   <a href="https://discuss.deepsource.io/">Community forum</a> |
   <a href="https://deepsource.io/discord/"> Discord serverrrrrrr</a>
